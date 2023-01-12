@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sevnet-MC&style=flat-square" alt="Leon-xNexusDev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sevnet-EU&style=flat-square" alt="Leon-xNexusDev" /> </p>
 
 
 <p align="center">
@@ -10,5 +10,5 @@
   <br>
 </p>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Leon-xNexusDev&theme=react-dark" alt="Sevnet-MC" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Leon-xNexusDev&theme=react-dark" alt="Sevnet-EU" /> </p>
 
