@@ -1,8 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leon-xNexusDev&label=Profile%20views&color=0e75b6&style=flat" alt="Leon-xNexusDev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Leon-xNexusDev&theme=" alt="Leon-xNexusDev" /></a> </p>
-
-<div> <a href="https://github.com/Leon-xNexusDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
