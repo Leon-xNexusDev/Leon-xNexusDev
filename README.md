@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon | XND</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon-xnexusdev&label=Profile%20views&color=0e75b6&style=plastic" alt="leon-xnexusdev" /> </p>
 
-- 🔭 I’m currently working on [XND-Media](xnd-media.de)
+- 🔭 I’m currently working on [xnd-media.de](xnd-media.de)
 
 - 💬 Ask me about **Java, Kotlin, JS, Python and more :3**
 
