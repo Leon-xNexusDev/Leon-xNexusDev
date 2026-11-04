@@ -6,8 +6,8 @@ Developer and photographer from Dresden. I'm training as an application develope
 
 | | |
 |---|---|
-| 📸 **[XND Media](https://xnd-media.de)** | Press photography and videography |
-| 🛠️ **[XND Studio](https://github.com/xnd-studio)** | Websites and web apps for clubs, initiatives and small businesses, built on Next.js and Payload CMS |
+| 📸 **[xnd-media.de](https://xnd-media.de)** | Press photography and videography |
+| 🛠️ **[xnd-studio.de](https://github.com/xnd-studio)** | Websites and web apps for clubs, initiatives and small businesses, built on Next.js and Payload CMS |
 | 🎓 **Apprenticeship** | Application development in Dresden |
 
 ### Stack
