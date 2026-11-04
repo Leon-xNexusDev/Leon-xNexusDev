@@ -36,5 +36,4 @@ Developer and photographer from Dresden. I'm training as an application develope
 ### Get in touch
 
 [![Email](https://img.shields.io/badge/info@xnd--media.de-EA4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:info@xnd-media.de)
-[![Instagram](https://img.shields.io/badge/@__leon.js-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_leon.js)
 [![Website](https://img.shields.io/badge/xnd--media.de-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://xnd-media.de)
